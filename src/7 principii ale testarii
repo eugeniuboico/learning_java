@@ -1,0 +1,20 @@
+1. Testing shows the presence, not the absence of defects - Testarea arată prezența defectelor, nu absența lor
+Daca merele verificate dintr o lada sunt bune, nu inseamna ca toate sunt bune
+
+2. Exhaustive testing is impossibe Testarea exhaustivă este imposibilă
+Cand cumparam incaltaminte, o probam si facem cativa pasi, nu putem sa ii testam inainte de cumparare pe toate drumurile, pe orice vreme etc
+
+3. Early testing saves time and money - Testarea timpurie economisește timp și bani
+Un control periodic la medic ar putea economisi mult timp si sanatate pe viitor, ajutandune sa identificam din timp ori ce boala
+
+4. Defects cluster toghether - Defectele tind să se concentreze în anumite zone
+Daca intr o casa avem mai multe probleme, de exemplu la baie: curge kranu, scurgerea nu merge bine, persista mucegaiul, e bine sa ne concentram acolo, posibil vom mai gasi probleme
+
+5. Tests war out - Testele își pierd eficiența în timp
+Cand mergem cu bicicleta, daca mereu verificam doar rotile, e posibil sa nu observam ca sa rupt frana
+
+6. Testing is context dependent - Testarea depinde de context
+atunci cand avem nevoie de papuci pentru nunta, testam sa fie confortabili si sa fie aspectul frumos, cand cumparam papuci pentru munte, verificam sa stea bine pe picior si sa nu alunece
+
+7. Absence-of-defects fallacy - Absența defectelor nu garantează utilitatea produsului
+Cumparam o mobila in casa, totul este perfect la ea, insa nu incape pe usa...
