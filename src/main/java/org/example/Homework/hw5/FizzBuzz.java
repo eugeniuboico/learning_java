@@ -1,4 +1,4 @@
-package Homework.hw5;
+package org.example.Homework.hw5;
 
 public class FizzBuzz {
     public static void main(String[] args) {

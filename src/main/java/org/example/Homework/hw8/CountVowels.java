@@ -1,6 +1,4 @@
-package Homework.hw8;
-
-import java.util.Locale;
+package org.example.Homework.hw8;
 
 public class CountVowels {
     public static void main(String[] args) {

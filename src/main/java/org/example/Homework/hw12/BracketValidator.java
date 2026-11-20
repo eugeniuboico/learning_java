@@ -1,7 +1,5 @@
-package Homework.hw12;
+package org.example.Homework.hw12;
 
-import java.lang.reflect.Array;
-import java.util.ArrayDeque;
 import java.util.ArrayList;
 
 public class BracketValidator {

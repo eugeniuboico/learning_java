@@ -1,4 +1,4 @@
-package Homework.hw12;
+package org.example.Homework.hw12;
 
 import java.util.*;
 

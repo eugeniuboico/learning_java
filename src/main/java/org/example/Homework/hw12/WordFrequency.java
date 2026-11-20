@@ -1,6 +1,5 @@
-package Homework.hw12;
+package org.example.Homework.hw12;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 

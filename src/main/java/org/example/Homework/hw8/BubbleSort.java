@@ -1,4 +1,4 @@
-package Homework.hw8;
+package org.example.Homework.hw8;
 import java.util.Arrays;
 
 public class BubbleSort {

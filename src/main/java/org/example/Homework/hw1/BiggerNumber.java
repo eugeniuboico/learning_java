@@ -1,6 +1,4 @@
-package Homework.hw1;
-
-import java.util.Scanner;
+package org.example.Homework.hw1;
 
 public class BiggerNumber {
     static void main() {

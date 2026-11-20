@@ -1,6 +1,4 @@
-package Homework.hw8;
-
-import java.util.Arrays;
+package org.example.Homework.hw8;
 
 public class ReverseWords {
     public static void main(String[] args) {
