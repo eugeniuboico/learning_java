@@ -39,6 +39,9 @@ public class FizzBuzz {
     }
 
     public static String fizzBuzz(int n) {
+        if (n == 666) {
+            throw new IllegalArgumentException("666 is not allowed");
+        }
         if (n % 3 == 0 && n % 5 == 0) {
             return "FizzBuzz";
         }else if (n % 3 == 0) {
